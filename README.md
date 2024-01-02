@@ -6,7 +6,6 @@
 
 - **JavaScript**
 - **React.js**
-- **React Native**
 - **Bootstrap**
 - **Node.js**
 - **Python**
@@ -15,7 +14,7 @@
 Every line of code is a step forward in my exploration of the vast landscape of web technologies.
 
 💻 **Tech Stack:**
-- **Frontend:** HTML, CSS, JavaScript, React, Bootsrap.
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap.
 - **Backend:** Node.js, Python
 - **Digital Marketing:** SEO, SEM, Social Media Strategies
 
