@@ -1,28 +1,62 @@
-### Hey there! 👋 I'm Ridwan Oyeniyi
+# Ridwan Oyeniyi
 
-🚀 **Aspiring Full Stack Developer | 💡 Digital Marketing Enthusiast**
+---
 
-🌱 Currently on an exciting journey of learning and growth. I'm building a strong foundation with **HTML** and **CSS**, and venturing into:
+🚀 **Aspiring Full Stack Developer**
 
-- **JavaScript**
-- **React.js**
-- **Bootstrap**
-- **Node.js**
-- **Python**
+🌱 Currently on an exciting journey of learning and growth.
 
-🌐 Passionate about creating seamless digital experiences, I'm honing my skills to become a versatile developer. 
-Every line of code is a step forward in my exploration of the vast landscape of web technologies.
+---
 
-💻 **Tech Stack:**
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap.
-- **Backend:** Node.js, Python
-- **Digital Marketing:** SEO, SEM, Social Media Strategies
+## Skills & Technologies
 
-📚 **Currently Learning:**
-- CSS & JavaScript
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+- React Native
+- Bootstrap
+- Tailwind CSS
 
-💬 Open to collaboration and always ready for a good coding challenge. Let's connect and share insights!
+### Backend
+- Firebase (Firestore, Authentication)
+- MongoDB
+- PostgreSQL
 
+### Machine Learning & AI
+- TensorFlow.js
+- Hugging Face
 
-Looking forward to the continuous learning and the exciting journey ahead! 🌟
+### Data Visualization
+- D3.js
+
+### Deployment
+- Vercel
+- Render
+
+### Version Control
+- Git
+
+---
+
+## Wakatime Stats
+
+### Coding Activities
+<figure>
+  <img src="https://wakatime.com/share/@1e463538-7daf-4546-b2e5-01533f06528c/1a7eec9d-f424-4fe3-9ee5-ab7afaaf4837.svg" alt="Coding Activity">
+</figure>
+
+### Languages Used
+<figure>
+  <img src="https://wakatime.com/share/@1e463538-7daf-4546-b2e5-01533f06528c/ada896f8-074d-490a-b6e2-af84647e67a1.svg" alt="Languages Used">
+</figure>
+
+---
+
+## Available for Work
+
+💼 Open to collaboration and projects. Let's create something amazing together!
+
+---
 
